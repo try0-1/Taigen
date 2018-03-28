@@ -1,0 +1,7 @@
+10 LED 1
+20 WAIT 60
+aaa
+30 LED 0
+40 WAIT 60
+50 GOTO 10
+aaaaaa
